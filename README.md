@@ -14,4 +14,5 @@ The website is hosted using Netlify on the URL `https://yasharyaweather.netlify.
 Right now the best viewing experience of the site is on desktop/laptop and the mobile view can be improved.
 
 ![image](https://github.com/user-attachments/assets/ba1acaa6-6c77-4151-b7b7-8e852438cbbd)
-![image](https://github.com/user-attachments/assets/6bc37de6-34a6-422d-8b13-ad01514edc90)
+![image](https://github.com/user-attachments/assets/2b426820-40e0-4057-9a78-a4adcb2a8c12)
+
