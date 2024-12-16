@@ -42,7 +42,6 @@ main ul {
 }
 
 .weather-container {
-  /* From https://css.glass */
   background-image: linear-gradient(#80a1e4d9, white);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
